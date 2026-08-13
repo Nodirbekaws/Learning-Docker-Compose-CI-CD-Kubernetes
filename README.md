@@ -171,4 +171,5 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 <a href="https://jsm.dev/dops25-jsm" target="_blank">
   <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
+</a>#   L e a r n i n g - D o c k e r - C o m p o s e - C I - C D - K u b e r n e t e s  
+ 
